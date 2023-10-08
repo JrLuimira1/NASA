@@ -1,3 +1,5 @@
+#MAIN CODE is "test.png"
+
 #The purpouse of this project is to create a new way of "listening images". The way as we did this is using some libraries. Here got arrays from different imagenes, then we see pattern. Some images are 2D dimesion and others are 3D.
 #The values of these arrays are the RGB color of each pixel.
 #Then we depurate the thousand of elemnts that these arrays had.
