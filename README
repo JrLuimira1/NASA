@@ -1,1 +1,7 @@
+#The purpouse of this project is to create a new way of "listening images". The way as we did this is using some libraries. Here got arrays from different imagenes, then we see pattern. Some images are 2D dimesion and others are 3D.
+#The values of these arrays are the RGB color of each pixel.
+#Then we depurate the thousand of elemnts that these arrays had.
+#As the final step, we using SCAMP library for creating sounds. 
+#The music sounds depending on the color of the images.
+
 #All the images  that are here, they were used for making experiments during the event. 
